@@ -11,7 +11,7 @@
 2.super():call the constructor of the parent class.
 3.inheritance:Allows child to use parent’s methods and properties
 */
-//practice problem ans:2
+//practice problem ans:3
 // const bus = {
 //      brand: "BRTC",
 //      color: "red",
@@ -80,7 +80,7 @@
 // console.log(myTruck);
 // console.log(myBus);
 
-// //practice problem ans:3
+// //practice problem ans:4
 // const animal = {
 //      name: 'Elephant',
 //      legs: 4,
@@ -140,7 +140,7 @@
 // console.log(myBird);
 // console.log(myFish);
 //practice problem ans:3
-// Parent Class
+// Practice problem ans:5
 class Furniture {
      constructor(material, color) {
           this.material = material;
