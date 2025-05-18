@@ -7,7 +7,8 @@ const order = [];
 const reviews = [];
 const DiscountCode = { "SAVE10": 10, "WELCOME15": 15 };
 
-function getFoodPrice(restaurantName,foodName) {
+function getFoodPrice(restaurantName, foodName) {
+     
      
 }
 
