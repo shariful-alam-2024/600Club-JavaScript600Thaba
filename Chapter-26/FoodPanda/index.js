@@ -48,3 +48,6 @@ function placeOrder(restaurantName, foodItem, discountCode, customer) {
      return dist.toFixed(2);
 }
 console.log(placeOrder('sushi house', 'salmon sushi', 'SAVE10', 'Rahim'));
+
+
+
